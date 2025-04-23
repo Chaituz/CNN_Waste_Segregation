@@ -12,14 +12,14 @@ Promote sustainable environmental practices.
 
 **Table of Contents:**
 
-Dataset and Waste Categories
-Features
-Technologies Used
-Model Performance
-Future Improvements
-Environmental Impact
-Acknowledgements
-Conclusion
+1. Dataset and Waste Categories
+2. Features
+3. Technologies Used
+4. Model Performance
+5. Future Improvements
+6. Environmental Impact
+7. Acknowledgements
+8. Conclusion
 
 **1) Dataset and Waste Categories:**
 
@@ -32,6 +32,7 @@ Metal
 Other
 Paper
 Plastic
+
 Each category is stored in its respective folder containing images of items that fall under that class. For example, the Food_Waste folder may contain coffee grounds, tea bags, and fruit peels — without being further subcategorized.
 
 **2) Features:**
@@ -63,18 +64,18 @@ Validation Accuracy: 0.4845
 
 From this project, you can continuously working to enhance the waste classification system. Future improvements include:
 
-Smart Waste Bins: Integrate the CNN model into automated bins that classify waste as soon as it's dropped in. Reduces human error in segregation and increases recycling efficiency.
-Real-time Sorting in Waste Plants: The model can identify and separate recyclable materials on the fly.
-Educational Tools: Use the model in schools and campaigns to teach proper waste segregation.
-Detecting Contaminated or Improper Waste: Train the model to detect if waste is improperly prepared (e.g., food inside plastic containers). Could alert users or workers to clean/sort before processing.
-Assistive Tech for Low-Income or Informal Workers: Deploy AI cameras on sorting stations used by informal workers in developing regions. Helps improve safety, efficiency, and income by identifying valuable materials quickly
+**Smart Waste Bins:** Integrate the CNN model into automated bins that classify waste as soon as it's dropped in. Reduces human error in segregation and increases recycling efficiency.
+**Real-time Sorting in Waste Plants:** The model can identify and separate recyclable materials on the fly.
+**Educational Tools:** Use the model in schools and campaigns to teach proper waste segregation.
+**Detecting Contaminated or Improper Waste:** Train the model to detect if waste is improperly prepared (e.g., food inside plastic containers). Could alert users or workers to clean/sort before processing.
+**Assistive Tech for Low-Income or Informal Workers:** Deploy AI cameras on sorting stations used by informal workers in developing regions. Helps improve safety, efficiency, and income by identifying valuable materials quickly
 
 **6) Environmental Impact:**
 
-Increased Recycling Efficiency: Precise waste classification ensures that recyclables are correctly sorted, avoiding contamination (e.g., food waste mixed with paper). Leads to more materials being reused rather than dumped in landfills.
-Protection of Water Bodies: Prevents improper disposal of harmful materials like e-waste or plastic, which can leak chemicals into rivers and oceans.
-Promotes Circular Economy: Cleanly sorted recyclables can be reintroduced into the production cycle. Reduces the need for raw material extraction (mining, deforestation, etc.), preserving natural ecosystems.
-Cleaner Urban Environments: Smarter waste classification helps cities manage their trash more efficiently. Leads to cleaner streets, less overflow, and better public health outcomes.
+**Increased Recycling Efficiency:** Precise waste classification ensures that recyclables are correctly sorted, avoiding contamination (e.g., food waste mixed with paper). Leads to more materials being reused rather than dumped in landfills.
+**Protection of Water Bodies:** Prevents improper disposal of harmful materials like e-waste or plastic, which can leak chemicals into rivers and oceans.
+**Promotes Circular Economy:** Cleanly sorted recyclables can be reintroduced into the production cycle. Reduces the need for raw material extraction (mining, deforestation, etc.), preserving natural ecosystems.
+**Cleaner Urban Environments:** Smarter waste classification helps cities manage their trash more efficiently. Leads to cleaner streets, less overflow, and better public health outcomes.
 
 **7) Acknowledgements:**
 
