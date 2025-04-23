@@ -1,4 +1,4 @@
-Project Overview:
+**Project Overview:**
 
 This project focuses on developing a Convolutional Neural Network (CNN) model for classifying waste images into seven distinct material types. By automating the waste sorting process, we aim to enhance recycling efficiency and contribute to environmental sustainability.
 
